@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+.list-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.suggestion-text {
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 400;
+  color: #475569;
+}
+.arrow-btn {
+  border: none;
+  background-color: #ffffff;
+  cursor: pointer;
+  outline: none;
+}
+.arrow-logo {
+  height: 15px;
+  width: 14px;
+}
